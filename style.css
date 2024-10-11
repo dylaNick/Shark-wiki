@@ -33,10 +33,25 @@
       background-color: #000000;
       opacity: 50%;
       text-align: center;
+      margin: 100px;
+      padding: 10px;
    }
+
+   .tata{
+    text-align: center;
+    font-family: hammersmith one;
+    font-size: 100px;
+    padding: 10px;
+   }
+
 
    .textoo{
       font-family: hammersmith one;
+      font-size: 31px;
+      text-align: justify center;
+      display: flex;
+      justify-content: center;
+      margin: auto;
    }
 
    @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
@@ -184,6 +199,7 @@ body{
     100%{
         transform: translateY(-1000px) rotate(720deg);
         opacity: 0;
+        border-radius: 100%;
     }
 
 }
