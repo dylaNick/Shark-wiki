@@ -38,9 +38,11 @@
       font-family: hammersmith one;
       font-size: 37px;
       text-align: justify center;
-      display: flex;
+      display: grid;
       justify-content: center;
       margin: auto;
+      border-radius: 50px 0 20px 10;
+      border-radius: 50pt;
    }
 
    .voce-sabia{
@@ -57,9 +59,10 @@
     font-family: hammersmith one;
     font-size: 100px;
     padding: 10px;
-    color: #8995a0;
-    opacity: 60%;
+    color: #bccddd;
+    opacity: 70%;
    }
+
 
    @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
@@ -91,6 +94,10 @@ html, body{
     background-repeat: no-repeat;
 }
 
+.cor{
+    background-image: linear-gradient(to bottom,#8099b4,#192427);
+
+}
 
 .circles{
     position: absolute;
