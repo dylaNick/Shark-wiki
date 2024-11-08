@@ -17,9 +17,9 @@
 .cara{
    background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
    border-radius: 50%;
-   height: 500px;
+   height: 800px;
    object-fit: contain;
-   width: 500px;
+   width: 800px;
    text-align: justify center;
    margin-top: -120px;
    opacity: 90%;
@@ -41,11 +41,19 @@
    color: white;
 }
 
+   .voce-sabia{
+    text-align: center;
+    font-family: hammersmith one;
+    font-size: 80px;
+    padding: 10px;
+    color: #ffffff;
+    margin-bottom: -20PX;
+   }
+
 .alimentos{
    width: 1000px;
-   height: 400px;
-   border: 1px solid #000000;
-   background-color: #000000;
+   height: 500px;
+   background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
    opacity: 50%;
    text-align: center;
    margin: 100px;
@@ -58,4 +66,136 @@
    margin: auto;
    border-radius: 50px 0 20px 10;
    border-radius: 50pt;
+}
+
+.habitat{
+   text-align: center;
+   font-family: hammersmith one;
+   font-size: 70px;
+   padding: 10px;
+   color: #ffffff;
+   margin-bottom: -20PX;
+}
+
+.lugares{
+   width: 1000px;
+   height: 400px;
+   background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
+   opacity: 50%;
+   text-align: center;
+   margin: 100px;
+   padding: 10px;      
+   font-family: hammersmith one;
+   font-size: 37px;
+   text-align: justify center;
+   display: grid;
+   justify-content: center;
+   margin: auto;
+   border-radius: 50px 0 20px 10;
+   border-radius: 50pt;
+}
+
+.curioso{
+   text-align: center;
+   font-family: hammersmith one;
+   font-size: 70px;
+   padding: 10px;
+   color: #ffffff;
+   margin-bottom: -20PX;
+}
+
+.curiosidade{
+   display: flex;
+   justify-content: center;
+   grid-template-columns: 50% 50%;
+}
+
+.quadrado-um{
+   width: 850px;
+   height: 530px;
+   background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
+   opacity: 50%;
+   text-align: center;
+   margin: 100px;
+   padding: 10px;      
+   font-family: hammersmith one;
+   font-size: 30px;
+   text-align: justify center;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   border-radius: 50px 0 20px 10;
+   border-radius: 50pt;
+}
+
+.quadrado-dois{
+   width: 850px;
+   height: 400px;
+   background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
+   opacity: 50%;
+   text-align: center;
+   margin: 100px;
+   padding: 10px;      
+   font-family: hammersmith one;
+   font-size: 30px;
+   text-align: justify center;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   border-radius: 50px 0 20px 10;
+   border-radius: 50pt;
+   margin-top: 10px;
+}
+
+.quadrado-tres{
+   width: 850px;
+   height: 400px;
+   background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
+   opacity: 50%;
+   text-align: center;
+   margin: 100px;
+   padding: 10px;      
+   font-family: hammersmith one;
+   font-size: 30px;
+   text-align: justify center;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   border-radius: 50px 0 20px 10;
+   border-radius: 50pt;
+   margin-top: 10px;
+}
+.quadrado-quatro{
+   width: 850px;
+   height: 400px;
+   background-image: linear-gradient(to bottom, #abe6df, #4a6d69);
+   opacity: 50%;
+   text-align: center;
+   margin: 100px;
+   padding: 10px;      
+   font-family: hammersmith one;
+   font-size: 30px;
+   text-align: justify center;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   border-radius: 50px 0 20px 10;
+   border-radius: 50pt;
+   margin-top: 10px;
+}
+
+footer{
+   background-color: #b5c3d2;
+   background-size: cover;
+   margin: 0%;
+   margin-top: 10px;
+}
+
+
+.logo{
+   width: 30%;
+}
+
+.logoo{
+ text-align: center;
 }
